@@ -9,5 +9,5 @@ namespace Coskrrak
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
-    } fuck you
+    }
 }
